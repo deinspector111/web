@@ -256,4 +256,4 @@
 
 })()
 
-var developperweb = "ธีรพงศ์ พรหมวัง"
+document.getElementById("developperweb").innerHTML = "Designed by.ธีรพงศ์ พรหมวัง";
