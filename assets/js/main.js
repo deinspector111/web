@@ -246,6 +246,7 @@
    * Animation on scroll
    */
   window.addEventListener('load', () => {
+    let dev = document.getElementById("developperweb").innerHTML = "Designed by.ธีรพงศ์ พรหมวัง";
     AOS.init({
       duration: 1000,
       easing: "ease-in-out",
@@ -257,5 +258,5 @@
 })()
 
 
-let dev = document.getElementById("developperweb").innerHTML = "Designed by.ธีรพงศ์ พรหมวัง";
+
 
