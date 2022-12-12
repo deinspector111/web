@@ -45,3 +45,7 @@
         } else {
             document.getElementById("cookieNotice").style.display = "block";
         }
+//close popup
+    function clodepolicy(){
+   document.getElementById("cookieNotice").style.display = "none";
+   }
