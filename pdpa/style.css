@@ -493,3 +493,10 @@
         top: 0
       }
     }
+a {
+   text-decoration: none;
+ }
+body{
+       font-family: 'line_seed_sans_th';
+       font-weight: bold;    // กรณีอยากได้ตัวหนาเปิดตัวนี้มาใช้
+  }
