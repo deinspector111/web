@@ -493,10 +493,11 @@
         top: 0
       }
     }
-a {
-   text-decoration: none;
- }
-body{
+	body,h5{
        font-family: 'line_seed_sans_th';
-       font-weight: bold;    // กรณีอยากได้ตัวหนาเปิดตัวนี้มาใช้
+       font-weight: bold;    /*กรณีอยากได้ตัวหนาเปิดตัวนี้มาใช้*/
   }
+	a {
+        text-decoration: none;
+  }
+
